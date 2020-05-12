@@ -9,3 +9,6 @@ Repository created locally and on Github "boris-bikes"
 
 step two:
 Created user user_stories.md split user stories into object and messages.
+
+step three:
+Define 'feature test', define a 'stack trace', use irb to run a 'feature test'.
